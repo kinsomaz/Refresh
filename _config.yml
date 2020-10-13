@@ -35,10 +35,10 @@ youtube_username                          :
 features                                  :
 
   - title                                 : FINANCIAL 
-    description                           : -Budgeting & Debt
-                                            -Government Intervantion
-                                            -City of Saskatoon intervention
-                                            -Financial Fruad Activity
+    description                           : <p>-Budgeting & Debt</p>
+                                            <p>-Government Intervantion</p>
+                                            <p>-City of Saskatoon intervention</p>
+                                            <p>-Financial Fruad Activity</p>
     fontawesome_icon_name                 : magic
     
   - title                                 : HEALTH
