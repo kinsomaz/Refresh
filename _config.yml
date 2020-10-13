@@ -50,7 +50,6 @@ features                                  :
 
   - title                                 : SOCIO RESOURCES
     description                           : <p>-Re-opening plan(s)</p>
-                                            <p>-Saskatoon Inter-Agency Response</p>
                                             <p>-Travel</p>
                                             <p>-Education & Students</p>
                                             <p>-Immigration & Employment</p>
@@ -62,16 +61,16 @@ features                                  :
     fontawesome_icon_name                 : sync
 
   - title                                 : COMMUNITY SERVICES RESOURCES
-    description                           : <p>-Cultural Association</p>
+    description                           : <p>-Cultural Association<p>
                                             <p>-Health & Well Being</p>
                                             <p>-Grocery Stores</p>
                                             <p>-Community Supports</p>
     fontawesome_icon_name                 : adjust
   
   - title                                 : COVID 19 RESOURCES
-    description                           : -COVID 19 Advice for the public
-                                            -Getting your Workplace Ready
-                                            -COVID 19 and Indigenous
+    description                           : <p>-COVID 19 Advice for the public<p>
+                                            <p>-Getting your Workplace Ready<p>
+                                            <p>-COVID 19 and Indigenous<p>
     fontawesome_icon_name                 : star
 
   
