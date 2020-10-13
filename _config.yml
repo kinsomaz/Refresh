@@ -34,21 +34,21 @@ youtube_username                          :
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : FINANCIAL 
+  - title                                 : FINANCIAL RESOURCES 
     description                           : <p>-Budgeting & Debt</p>
                                             <p>-Government Intervantion</p>
                                             <p>-City of Saskatoon intervention</p>
                                             <p>-Financial Fruad Activity</p>
     fontawesome_icon_name                 : magic
     
-  - title                                 : HEALTH
+  - title                                 : HEALTH RESOURCES
     description                           : <p>-Covid 19 general & Prevention</p>
                                             <p>-Covid 19 Assessment</p>
                                             <p>-Mental Health</p>
                                             <p>-Family & Children</p>
     fontawesome_icon_name                 : mobile
 
-  - title                                 : SOCIO
+  - title                                 : SOCIO RESOURCES
     description                           : <p>-Re-opening plan(s)</p>
                                             <p>-Saskatoon Inter-Agency Response</p>
                                             <p>-Travel</p>
@@ -57,16 +57,21 @@ features                                  :
                                             <p>-Prejudice & Stigma</p>
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : FAMILY
+  - title                                 : FAMILY RESOURCES
     description                           : 
     fontawesome_icon_name                 : sync
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
+  - title                                 : COMMUNITY SERVICES RESOURCES
+    description                           : <p>-Cultural Association</p>
+                                            <p>-Health & Well Being</p>
+                                            <p>-Grocery Stores</p>
+                                            <p>-Community Supports</p>
     fontawesome_icon_name                 : adjust
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
+  - title                                 : COVID 19 RESOURCES
+    description                           : -COVID 19 Advice for the public
+                                            -Getting your Workplace Ready
+                                            -COVID 19 and Indigenous
     fontawesome_icon_name                 : star
 
   
