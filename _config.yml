@@ -42,19 +42,19 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : HEALTH
-    description                           : -Covid 19 general & Prevention
-                                            -Covid 19 Assessment
-                                            -Mental Health
-                                            -Family & Children
+    description                           : <p>-Covid 19 general & Prevention</p>
+                                            <p>-Covid 19 Assessment</p>
+                                            <p>-Mental Health</p>
+                                            <p>-Family & Children</p>
     fontawesome_icon_name                 : mobile
 
   - title                                 : SOCIO
-    description                           : -Re-opening plan(s)
-                                            -Saskatoon Inter-Agency Response
-                                            -Travel
-                                            -Education & Students
-                                            -Immigration & Employment
-                                            -Prejudice & Stigma
+    description                           : <p>-Re-opening plan(s)</p>
+                                            <p>-Saskatoon Inter-Agency Response</p>
+                                            <p>-Travel</p>
+                                            <p>-Education & Students</p>
+                                            <p>-Immigration & Employment</p>
+                                            <p>-Prejudice & Stigma</p>
     fontawesome_icon_name                 : play-circle
 
   - title                                 : FAMILY
