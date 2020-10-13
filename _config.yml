@@ -42,15 +42,23 @@ features                                  :
     fontawesome_icon_name                 : magic
     
   - title                                 : HEALTH
-    description                           : Preview your app in the context of an iPhone device. Five different device colors included.
+    description                           : -Covid 19 general & Prevention
+                                            -Covid 19 Assessment
+                                            -Mental Health
+                                            -Family & Children
     fontawesome_icon_name                 : mobile
 
   - title                                 : SOCIO
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+    description                           : -Re-opening plan(s)
+                                            -Saskatoon Inter-Agency Response
+                                            -Travel
+                                            -Education & Students
+                                            -Immigration & Employment
+                                            -Prejudice & Stigma
     fontawesome_icon_name                 : play-circle
 
   - title                                 : FAMILY
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
+    description                           : 
     fontawesome_icon_name                 : sync
 
   - title                                 : Easy to Tweak
@@ -61,17 +69,7 @@ features                                  :
     description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
     fontawesome_icon_name                 : star
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
-
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
-
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : info-circle
+  
 
 
 
