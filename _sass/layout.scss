@@ -36,6 +36,8 @@
 .headerBackground {
 	height: 115px;
 	background-color: rgba($header-color, $header-transparency);
+	border-radius: 0px 0px 40px 40px;
+
 }
 
 @media only screen and (max-width: 768px) {
