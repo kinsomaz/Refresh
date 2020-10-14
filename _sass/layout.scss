@@ -15,7 +15,7 @@
 }
 	
 .imageWrapper1 {					// Sets the background image in the header area
-	height: 200px;
+	height: 300px;
 	background: 
 		linear-gradient(
 		rgba($image-overlay-color, $image-overlay-transparency), 
@@ -45,14 +45,14 @@
 }
 	
 .headerBackground1 {
-	height: 300px;
+	height: 400px;
 	background-color: rgba($header-color, $header-transparency);
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 900px) {
 
 	.headerBackground {
-		height: 200px;
+		height: 350px;
 	}
 
 }
