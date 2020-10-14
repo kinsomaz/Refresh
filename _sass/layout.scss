@@ -42,6 +42,19 @@
 	}
 
 }
+	
+.headerBackground1 {
+	height: 300px;
+	background-color: rgba($header-color, $header-transparency);
+}
+
+@media only screen and (max-width: 768px) {
+
+	.headerBackground {
+		height: 200px;
+	}
+
+}
 
 .subPageHeaderBackground {
 	background-color: #fff;
@@ -62,6 +75,21 @@
 		"c c c c c c c c c c c c"
 		"f f f f f f f f f f f f";
 }
+	
+.container1 {					// Set up the container for the site content
+	display: grid;
+	margin: auto;
+	max-width: $content-width;
+	grid-template-columns: repeat(12, 1fr);
+	grid-template-rows: 115px 876px auto auto;
+	grid-column-gap: 30px;
+	grid-template-areas: 
+		"h h h h h h h h h h h h"
+		"p p p p p i i i i i i i"
+		"c c c c c c c c c c c c"
+		"f f f f f f f f f f f f";
+}
+
 
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
