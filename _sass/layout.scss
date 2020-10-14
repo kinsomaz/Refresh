@@ -26,7 +26,8 @@
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: top;
-	
+	border-radius: 0px 0px 40px 40px;
+
 }	
 	
 
@@ -44,7 +45,19 @@
 	}
 
 }
-	
+
+.headerBackground {
+	height: 400px;
+	background-color: rgba($header-color, $header-transparency);
+}
+
+@media only screen and (max-width: 768px) {
+
+	.headerBackground {
+		height: 80px;
+	}
+
+}
 
 
 .subPageHeaderBackground {
