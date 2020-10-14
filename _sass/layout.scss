@@ -45,18 +45,7 @@
 
 }
 	
-.headerBackground1 {
-	height:  400px;
-	background-color: rgba($header-color, $header-transparency);
-}
 
-@media only screen and (max-width: 400px) {
-
-	.headerBackground {
-		height: 350px;
-	}
-
-}
 
 .subPageHeaderBackground {
 	background-color: #fff;
