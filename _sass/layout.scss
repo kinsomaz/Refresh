@@ -144,6 +144,12 @@
 	}
 }
 
+@media only screen and (max-width: 768px) {
+	.container4 {
+		width : 100% ;
+	}
+}
+
 .subPageContainer {
 	grid-template-rows: 115px auto auto auto;
 	background-color: #fff;
