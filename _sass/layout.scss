@@ -123,6 +123,13 @@
 	padding-left: 100px ;
 	margin: auto;
 }
+
+@media only screen and (max-width: 768px) {
+	.container2 {
+		padding-top : 10% ;
+		padding-left : 0px ;
+	}
+}
 	
 .container3 {
 	padding-top: 50px ;
@@ -132,8 +139,7 @@
 }
 	
 @media only screen and (max-width: 768px) {
-	.container2 {
-		padding-top : 10% ;
+	.container3 {
 		padding-left : 0px ;
 	}
 }
